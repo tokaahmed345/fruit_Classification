@@ -1,16 +1,36 @@
-# emotion_detector
+# fruit classification
 
-A new Flutter project.
+🍎 Fruit Classification App
+This is a Fruit Classification mobile application built with Flutter. The app uses a machine learning model trained on a dataset from Kaggle to identify different types of fruits from images.
 
-## Getting Started
+📱 Features
+Upload or capture an image of a fruit.
 
-This project is a starting point for a Flutter application.
+Get the predicted fruit name and confidence percentage.
 
-A few resources to get you started if this is your first Flutter project:
+Simple and clean Flutter UI for easy interaction.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Uses a pre-trained ML model for image classification.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📊 Dataset
+The dataset used for training the model is from Kaggle, containing various types of fruits.
+
+The model was trained externally and integrated into the app for predictions.
+
+🛠️ Tech Stack
+Flutter for frontend development.
+
+Dart language.
+
+TensorFlow Lite or similar (if applicable) for running the model on-device.
+
+🚀 How to Run
+Clone this repo.
+
+Run flutter pub get to install dependencies.
+
+Use an emulator or real device and run flutter run.
+
+
+
+
