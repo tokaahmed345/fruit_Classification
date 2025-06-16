@@ -1,4 +1,3 @@
-# fruit classification
 
 🍎 Fruit Classification App
 This is a Fruit Classification mobile application built with Flutter. The app uses a machine learning model trained on a dataset from Kaggle to identify different types of fruits from images.
