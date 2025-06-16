@@ -1,0 +1,7 @@
+0 Apple
+1 Salak.
+2  Plum
+3 Raspberry
+4 Pomegranate
+5 Prickly Pear
+6 Potentilla indica
